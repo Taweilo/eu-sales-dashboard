@@ -1,4 +1,4 @@
-# EU Supermarket Sales Dashboard
+# EU Sales Interactive Dashboard
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
  
 ```
