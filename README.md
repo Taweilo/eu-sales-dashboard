@@ -1,4 +1,4 @@
-# EU Superstore Sales Dashboard
+# EU Supermarket Sales Dashboard
 
 ## Data: 
 
