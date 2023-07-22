@@ -1,4 +1,6 @@
 # EU Sales Interactive Dashboard via Tableau
+![Software](https://img.shields.io/badge/%20Tableau-FFFFFF?style=for-the-badge&logo=Tableau&logoColor=0077B5)
+
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
  
 ```
