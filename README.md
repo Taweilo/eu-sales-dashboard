@@ -1,20 +1,14 @@
-# EU Sales Interactive Dashboard
+# EU Sales Interactive Dashboard via Tableau
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
  
 ```
 ├── Image
-│   ├── 2.1 Dataset.jpg                           <- dataset image used in the README
-│   ├── 2.2 Statistics.jpg                        <- data statistics summary used in the README
-│   ├── 2.3 Outcome distribution.jpg              <- outcome distribution image used in the README
-│   ├── 2.4 Pairplot.jpg                          <- pairplot image used in the README
-│   ├── 5.1 Evaluation.jpg                        <- model summary table used in the README
-│   ├── 5.2 RF Confusion matrix.jpg               <- RF Confusion matrix used in the README
-│   ├── 5.3 Feature importance.jpg                <- RF feature importance used in the README                          
+│   ├── Publish.jpg                               <- dashbaord image used in the README                    
 │
-├── Code_Diabetes_Prediction.ipynb                <- code
-├── Data_diabetes.csv                             <- dataset
 ├── LICENSE                                       <- MIT license
 ├── README.md                                     <- read me
+├── Sales Dashboard.twb                           <- tableau workbook
+├── Sample - EU Superstore.csv                    <- dataset
 ```
 ## Data: 
 Data source: https://data.world/missdataviz/superstore-sales-eu from data. world
