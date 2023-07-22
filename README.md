@@ -17,6 +17,7 @@
 ├── README.md                                     <- read me
 ```
 ## Data: 
+Data source: https://data.world/missdataviz/superstore-sales-eu from data. world
 
 ## Dashboard include
 * Monthly sales
@@ -26,10 +27,14 @@
 
 ## Method
 1. Build all charts at Tableau
-2. 113
-3. 123
-4. 123
+2. Customize
+3. Place the elements
+4. Add interactivity
 
 ## Deployment
 https://public.tableau.com/shared/S42RY5MC5?:display_count=n&:origin=viz_share_link
  <img src="https://github.com/Taweilo/EU_Sales_Dashboard/blob/main/Image/Publish.jpg" width="1100">
+
+## Reference
+* Dashboard Development https://www.youtube.com/watch?v=6oFTdbrugUs
+* Publish to Tableau Public https://www.youtube.com/watch?v=mIP-58_qTEs
